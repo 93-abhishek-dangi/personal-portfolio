@@ -591,7 +591,7 @@ h3.my-profession{
     .aside{left: -270px;}
     .aside.open{left: 0;}
     .aside .nav-toggler{display: flex; left: 30px;}
-    .aside .nav-toggler.open{left: 2540px;}
+    .aside .nav-toggler.open{left: 250px;}
     .section{left: 0;}
     .section.open{ left: 270px;}
     .about .about-content .personal-info .info-item p span{
